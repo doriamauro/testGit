@@ -10,10 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import it.demo.entity.Indirizzo;
 import it.demo.service.IndirizzoService;
 //prova
-//prova
-//prova
-//prova
-//prova
+
 //prova
 
 @RestController
